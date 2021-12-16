@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @geerma
+- 👀 I’m interested in ... Machine Learning, AI, Data
+- 🌱 I’m currently learning ... HTML, CSS, Javascript, Python
+- 💞️ I’m looking to collaborate on ... Coding Projects, Hackathons
+- 📫 How to reach me ... message me!
