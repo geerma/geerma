@@ -1,5 +1,4 @@
 <h1 align="center">⚙️ Hello, I’m Geer Ma ⚙️</h1>
-<h3>I am a Software Engineering Master's Student studying at the University of Calgary </h3>
 
 - 👍 Find out more about me at ... [my website](https://geerma.github.io/)
 - 📙 I know ... HTML/CSS, JavaScript, React, Node.js, Java, Python
@@ -9,4 +8,9 @@
   - Responsive Web Design (HTML & CSS)
   - JavaScript Algorithms and Data Structures (React)
   - Front End Development Libraries
-  - Scientific Computing with Python
+  - Scientific Computing with Python 
+- 📖 Check out my hackathon projects ...
+  - [Leftovers Marketplace](https://github.com/geerma/leftoversmarketplace)
+  - [Gambling Go Away](https://github.com/geerma/GamblingGoAway)
+  - [Bloom](https://github.com/geerma/Bloom)
+  - [Fluffy Study Buddy](https://github.com/geerma/fluffybuddy)
