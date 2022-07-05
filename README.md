@@ -1,7 +1,10 @@
 <h1 align="center">⚙️ Hello, I’m Geer Ma ⚙️</h1>
 
 - 👍 Find out more about me at ... [my website](https://geerma.github.io/)
-- 📙 I know ... HTML/CSS, JavaScript, React, Node.js, Express, Java, Python, NumPy, Pandas
+- 📙 I know ... 
+  - **Languages:** HTML/CSS/JavaScript, Java, Python 
+  - **Frameworks and Libraries:** React, Express, NumPy, Pandas 
+  - **Tools:** Git, MongoDB, Firebase
 - 👀 I’m interested in ... Web Development, Machine Learning, AI, and Data Analysis
 - 💞️ I’m looking to collaborate on ... Coding Projects and Hackathons
 - 🌱 I’m currently learning ... [**freeCodeCamp Certifications**](https://www.freecodecamp.org/fccc853331e-8d63-4074-bf4c-51bbb9c1e863): 
