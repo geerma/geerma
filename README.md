@@ -3,7 +3,7 @@
 - 👍 Find out more about me at ... [my website](https://geerma.github.io/)
 - 📙 I know ... 
   - **Languages:** HTML/CSS/JavaScript, Java, Python 
-  - **Frameworks and Libraries:** React, Express, NumPy, Pandas 
+  - **Frameworks and Libraries:** React, React Native, Express, NumPy, Pandas 
   - **Tools:** Git, MongoDB, Firebase
 - 👀 I’m interested in ... Web Development, Machine Learning, AI, and Data Analysis
 - 💞️ I’m looking to collaborate on ... Coding Projects and Hackathons
