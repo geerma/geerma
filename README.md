@@ -13,8 +13,9 @@
   - Front End Development Libraries - [Projects](https://github.com/geerma/freeCodeCamp-frontEndProjects)
   - Scientific Computing with Python - [Projects](https://github.com/geerma/freeCodeCamp-PythonProjects)
 - 📖 Check out my hackathon projects ...
-  - [Cohere Camping Creator](https://github.com/geerma/CohereCampingCreator) :star:
-  - [Leftovers Marketplace](https://github.com/geerma/leftoversmarketplace) :star:
-  - [Gambling Go Away](https://github.com/geerma/GamblingGoAway) :star:
+  - [Blue Sky](https://github.com/geerma/AzureCloud-OCR-SR) - Microsoft Azure Computer Vision and Speech Recognition project :star:
+  - [Cohere Camping Creator](https://github.com/geerma/CohereCampingCreator) - Natural Language Programming project :star:
+  - [Leftovers Marketplace](https://github.com/geerma/leftoversmarketplace) - React (JS/HTML/CSS) and MongoDB :star:
+  - [Gambling Go Away](https://github.com/geerma/GamblingGoAway)
   - [Bloom](https://github.com/geerma/Bloom)
   - [Fluffy Study Buddy](https://github.com/geerma/fluffybuddy)
