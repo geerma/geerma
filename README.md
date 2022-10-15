@@ -8,13 +8,13 @@
 - 👀 I’m interested in ... Full-Stack Web Development, Machine Learning/AI, and Data Science
 - 💞️ I’m looking to collaborate on ... Coding Projects and Hackathons
 - 📖 Check out my hackathon projects ...
-  - [Blue Sky](https://github.com/geerma/AzureCloud-OCR-SR) - Microsoft Azure Computer Vision and Speech Recognition project :star:
   - [Cohere Camping Creator](https://github.com/geerma/CohereCampingCreator) - Natural Language Programming project :star:
   - [Leftovers Marketplace](https://github.com/geerma/leftoversmarketplace) - React (JS/HTML/CSS) and MongoDB :star:
+  - [Blue Sky](https://github.com/geerma/AzureCloud-OCR-SR) - Microsoft Azure Computer Vision and Speech Recognition project :star:
   - [Gambling Go Away](https://github.com/geerma/GamblingGoAway)
   - [Bloom](https://github.com/geerma/Bloom)
   - [Fluffy Study Buddy](https://github.com/geerma/fluffybuddy)
-- 🌱 I’m currently learning ... [**freeCodeCamp Certifications**](https://www.freecodecamp.org/fccc853331e-8d63-4074-bf4c-51bbb9c1e863): 
+- 🌱 On the side, I am currently learning ... [**freeCodeCamp Certifications**](https://www.freecodecamp.org/fccc853331e-8d63-4074-bf4c-51bbb9c1e863): 
   - Responsive Web Design
   - JavaScript Algorithms and Data Structures
   - Front End Development Libraries - [Projects](https://github.com/geerma/freeCodeCamp-frontEndProjects)
