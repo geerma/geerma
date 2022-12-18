@@ -2,8 +2,8 @@
 
 - 👍 Find out more about me at ... [my website](https://geerma.github.io/)
 - 📙 I know ... 
-  - **Languages:** Python, Java, HTML/CSS, JavaScript, C++, SQL
-  - **Frameworks and Libraries:** React, Express, NumPy, Pandas
+  - **Languages:** Python, Java, JavaScript, HTML/CSS, C++, SQL
+  - **Frameworks/Libraries:** React, Express, Spring, Flask, Scikit-learn
   - **Tools:** Git, Firebase, MongoDB, MySQL
 - 👀 I’m interested in ... Full-stack Web Development, Machine Learning/AI, and Data Science
 - 💞️ I’m looking to collaborate on ... Coding Projects and Hackathons
@@ -15,8 +15,6 @@
   - [Leftovers Marketplace](https://github.com/geerma/leftoversmarketplace) - Food Insecurity Project (React, MongoDB) 🏅
   - [Gambling Go Away](https://github.com/geerma/GamblingGoAway) - Gambling Prevention Project (React, Firebase) 🏅
   - [Blue Sky](https://github.com/geerma/AzureCloud-OCR-SR) - Microsoft Azure Computer Vision and Speech Recognition
-  - [Bloom](https://github.com/geerma/Bloom)
-  - [Fluffy Study Buddy](https://github.com/geerma/fluffybuddy)
 - 🌱 On the side, I am currently learning ... [**freeCodeCamp Certifications**](https://www.freecodecamp.org/fccc853331e-8d63-4074-bf4c-51bbb9c1e863): 
   - Responsive Web Design
   - JavaScript Algorithms and Data Structures
