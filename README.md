@@ -2,9 +2,9 @@
 
 - 👍 Find out more about me at ... [my website](https://geerma.github.io/)
 - 📙 I know ... 
-  - **Languages:** Python, Java, JavaScript, HTML/CSS, C++, SQL
+  - **Languages:** Python, Java, JavaScript/TypeScript, HTML, CSS, C++, SQL
   - **Frameworks/Libraries:** React, Express, Spring, Flask, Scikit-learn
-  - **Tools:** Git, Firebase, MongoDB, MySQL
+  - **Tools:** Git, AWS, Firebase, MongoDB, MySQL, Docker
 - 👀 I’m interested in ... Full-stack Web Development, Machine Learning/AI, and Data Science
 - 💞️ I’m looking to collaborate on ... Coding Projects and Hackathons
 - 📖 Check out my course/personal projects ...
