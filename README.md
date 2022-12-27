@@ -1,22 +1,25 @@
 <h1 align="center">⚙️ Hello, I’m Geer Ma ⚙️</h1>
 
-- 👍 Find out more about me at ... [my website](https://geerma.github.io/)
-- 📙 I know ... 
+- 👍 Find out more about me by clicking on [my website](https://geerma.github.io/)
+
+- 📙 I know:
   - **Languages:** Python, Java, JavaScript/TypeScript, HTML, CSS, C++, SQL
   - **Frameworks/Libraries:** React, Express, Spring, Flask, Scikit-learn
   - **Tools:** Git, AWS, Firebase, MongoDB, MySQL, Docker
-- 👀 I’m interested in ... Full-stack Web Development, Machine Learning/AI, and Data Science
-- 💞️ I’m looking to collaborate on ... Coding Projects and Hackathons
-- 📖 Check out my course/personal projects ...
-  - [ActiveTechStyle](https://github.com/geerma/activetechstyle) - Full-stack E-Commerce Web App (React, MySQL) :star:
+
+- 🌱 I am currently improving my knowledge on Cloud Computing Platforms, React with TypeScript, and Spring Boot with Databases.
+
+- 👀 I’m interested in: Full-stack Web Development, Machine Learning/AI, and Data Science
+
+- 💞️ I’m looking to collaborate on Coding Projects and Hackathons
+
+- 📖 Check out my course/personal projects:
+  - [ActiveTechStyle](https://github.com/geerma/activetechstyle) - Full-stack E-Commerce Web App (React, Spring Boot, MySQL) :star:
   - [ML-MBTI-Fullstack](https://github.com/geerma/ml-mbti-fullstack) - Machine Learning MBTI Web App (React, Flask) :star:
-- 📖 Check out my hackathon projects ...
-  - [Cohere Camping Creator](https://github.com/geerma/CohereCampingCreator) - NLP Web App (React, NLP API, Twilio API) 🏅
-  - [Leftovers Marketplace](https://github.com/geerma/leftoversmarketplace) - Food Insecurity Project (React, MongoDB) 🏅
+
+- 📖 Check out my hackathon projects:
+  - [Cohere Camping Creator](https://github.com/geerma/CohereCampingCreator) - NLP Cohere AI Web App (React, Express) 🏅
+  - [Leftovers Marketplace](https://github.com/geerma/leftoversmarketplace) - Food Insecurity Project (React, Express, MongoDB) 🏅
   - [Gambling Go Away](https://github.com/geerma/GamblingGoAway) - Gambling Prevention Project (React, Firebase) 🏅
+  - [The Giving Tree](https://github.com/geerma/thegivingtree) - OpenAI ChatGPT-3 Web App (React, TypeScript, Express) 🏅
   - [Blue Sky](https://github.com/geerma/AzureCloud-OCR-SR) - Microsoft Azure Computer Vision and Speech Recognition
-- 🌱 On the side, I am currently learning ... [**freeCodeCamp Certifications**](https://www.freecodecamp.org/fccc853331e-8d63-4074-bf4c-51bbb9c1e863): 
-  - Responsive Web Design
-  - JavaScript Algorithms and Data Structures
-  - Front End Development Libraries - [Projects](https://github.com/geerma/freeCodeCamp-frontEndProjects)
-  - Scientific Computing with Python - [Projects](https://github.com/geerma/freeCodeCamp-PythonProjects)
