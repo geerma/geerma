@@ -4,14 +4,14 @@
 
 - 📙 I know:
   - **Languages:** Python, Java, JavaScript/TypeScript, HTML, CSS, C++, SQL
-  - **Frameworks/Libraries:** React, Express, Spring, Flask, Scikit-learn
-  - **Tools:** Git, AWS, Firebase, MongoDB, MySQL, Docker
+  - **Frameworks/Libraries:** React, Express, Spring Boot, Flask, Scikit-learn
+  - **Tools:** Git, AWS, Google Cloud, MySQL, Firebase, MongoDB, Docker
 
-- 🌱 I am currently improving my knowledge on Cloud Computing Platforms, React with TypeScript, and Spring Boot with Databases.
+- 🌱 I am currently improving my knowledge on Cloud Computing Platforms, React with TypeScript, and Spring Boot with Databases
 
-- 👀 I’m interested in: Full-stack Web Development, Machine Learning/AI, and Data Science
+- 👀 I’m interested in Full-stack Web Development, Machine Learning/AI, and Data Science
 
-- 💞️ I’m looking to collaborate on Coding Projects and Hackathons
+- 💞️ I’m looking to collaborate on coding projects and hackathons!
 
 - 📖 Check out my course/personal projects:
   - [ActiveTechStyle](https://github.com/geerma/activetechstyle) - Full-stack E-Commerce Web App (React, Spring Boot, MySQL) :star:
