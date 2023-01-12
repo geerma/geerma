@@ -1,6 +1,6 @@
 <h1 align="center">⚙️ Hello, I’m Geer Ma ⚙️</h1>
 
-- 👍 Find out more about me by clicking on [my website](https://geerma.github.io/)
+- 👍 Find out more about me checking out [my website](https://geerma-portfolio.vercel.app/)
 
 - 📙 I know:
   - **Languages:** Python, Java, JavaScript/TypeScript, HTML, CSS, C++, SQL
