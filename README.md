@@ -26,16 +26,17 @@
   - [ML-MBTI-Webapp](https://github.com/geerma/ml-mbti-webapp) - Machine Learning MBTI Web App (React, Flask)
 
 - 📖 Check out my hackathon projects:
-  - [The Giving Tree](https://github.com/geerma/thegivingtree) - OpenAI ChatGPT-3 Web App (React, TypeScript, Express) 🏅
-  - [Leftovers Marketplace](https://github.com/geerma/leftoversmarketplace) - Food Insecurity Project (React, Express, MongoDB) 🏅
-  - [Cohere Camping Creator](https://github.com/geerma/CohereCampingCreator) - NLP Cohere AI Web App (React, Express) 🏅
-  - [Gambling Go Away](https://github.com/geerma/GamblingGoAway) - Gambling Prevention Project (React, Firebase) 🏅
+  - [Volunteer Vision](https://github.com/geerma/volunteer-vision) - Volunteer Connection App (Next.js, Supabase, Auth0, Twilio, Wix) 🥇 *First Place*
+  - [The Giving Tree](https://github.com/geerma/thegivingtree) - OpenAI ChatGPT-3 Web App (React, TypeScript, Express) 🏅 *Track Award*
+  - [Leftovers Marketplace](https://github.com/geerma/leftoversmarketplace) - Food Insecurity Project (React, Express, MongoDB) 🏅 *Sponsor Award*
+  - [Cohere Camping Creator](https://github.com/geerma/CohereCampingCreator) - NLP Cohere AI Web App (React, Express) 🏅 *Sponsor Award*
+  - [Gambling Go Away](https://github.com/geerma/GamblingGoAway) - Gambling Prevention Project (React, Firebase) 🥉 *Third Place*
   - [Blue Sky](https://github.com/geerma/AzureCloud-OCR-SR) - Microsoft Azure Computer Vision and Speech Recognition
 
 ---
 
 - 🎨 Other Facts:
-  - Participated in 8 hackathons, received awards in 5
+  - Participated in 9 hackathons, received awards in 6
   - Received 4 FreeCodeCamp certificates
 
 ---
