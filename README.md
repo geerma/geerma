@@ -10,8 +10,8 @@
 
 - 📙 I know:
   - **Languages:** Java, TypeScript/JavaScript, Python, C++, HTML/CSS, SQL
-  - **Frameworks/Libraries:** React, Express, Spring Boot, Flask
-  - **Tools:** Git, AWS, Google Cloud, MySQL, Supabase, Firebase, MongoDB, Docker
+  - **Frameworks/Libraries:** React, React Native, Express, Spring Boot, Flask, Selenium, Jest
+  - **Tools:** Git, AWS, Google Cloud, MySQL, PostgreSQL, Firebase, MongoDB, Docker
 
 - 🌱 I am currently improving my knowledge on Cloud Computing Platforms, React Apps using TypeScript, and Spring Boot
 
