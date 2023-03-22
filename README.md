@@ -8,14 +8,13 @@
 
 ---
 
-- 📙 I know:
+- 📙 Skills:
   - **Languages:** Java, TypeScript/JavaScript, Python, C++, HTML/CSS, SQL
-  - **Frameworks/Libraries:** React, React Native, Express, Spring Boot, Flask, Selenium, Jest
+  - **Frameworks/Libraries:** React, React Native, Express, Spring Boot, Flask, Selenium, Jest, 
   - **Tools:** Git, AWS, Google Cloud, MySQL, PostgreSQL, Firebase, MongoDB, Docker
+  - **Machine Learning/Deep Learning:** scikit-learn, TensorFlow, PyTorch, PySpark, Databricks
 
-- 🌱 I am currently improving my knowledge on Cloud Computing Platforms, React Apps using TypeScript, and Spring Boot
-
-- 💞️ I’m looking to collaborate on coding projects and hackathons!
+- 💻 I am currently working on an MEng Industry Project with Benevity: *Refactoring a Monolith App to Modern SaaS Architecture*
 
 ---
 
