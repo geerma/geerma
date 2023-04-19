@@ -28,6 +28,7 @@
 
 - 📖 Check out my course/personal projects:
   - [ActiveTechStyle](https://github.com/geerma/activetechstyle) - Full-stack E-Commerce Web App (React, Spring Boot, MySQL) :star:
+  - [ASL-Recognition-Deep-Learning](https://github.com/geerma/asl-recognition-deep-learning) - Deep Learning for American Sign Language Alphabet Recognition
   - [ML-MBTI-Webapp](https://github.com/geerma/ml-mbti-webapp) - Machine Learning MBTI Web App (React, Flask)
 
 ---
