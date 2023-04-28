@@ -9,14 +9,14 @@
 ---
 
 - 📙 Skills:
-  - **Languages:** Java, TypeScript/JavaScript, Python, C++, HTML/CSS, SQL
-  - **Frameworks/Libraries:** React, React Native, Express, Spring Boot, Flask, Selenium, Jest, 
+  - **Languages:** Java, TypeScript/JavaScript, Python, C++, HTML/CSS, SQL, PHP
+  - **Frameworks/Libraries:** React, React Native, Express, Spring Boot, Flask, Selenium, Jest
   - **Tools:** Git, AWS, Google Cloud, MySQL, PostgreSQL, Firebase, MongoDB, Docker
   - **Machine Learning/Deep Learning:** scikit-learn, TensorFlow, PyTorch, PySpark, Databricks
 
-- 💻 I am currently working on an MEng Industry Project with Benevity: *Refactoring a Monolith App to Modern SaaS Architecture*
-
 ---
+
+- 💻 MEng Industry Project with Benevity: Refactoring a Monolith App to Modern SaaS Architecture
 
 - 📖 Check out my featured hackathon projects:
   - [Volunteer Vision](https://github.com/geerma/volunteer-vision) - Volunteer Connection Web App (Next.js, Supabase, Auth0, Twilio, Wix) 🥇 *First Place*
@@ -35,6 +35,6 @@
 
 - 🎨 Other Facts:
   - Participated in 10 hackathons, received awards in 6
-  - Received 4 FreeCodeCamp certificates
+  - Received 4 FreeCodeCamp certificates, interested in learning new technologies and skills
 
 ---
