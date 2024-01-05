@@ -11,7 +11,7 @@
 - 📙 Skills:
   - **Languages:** Java, TypeScript/JavaScript, Python, C++, HTML/CSS, SQL, PHP
   - **Frameworks/Libraries:** React, React Native, Express, Spring Boot, Flask, Selenium, Jest
-  - **Tools:** Git, AWS, Google Cloud, MySQL, PostgreSQL, Firebase, MongoDB, Docker
+  - **Tools:** Git, AWS, Microsoft Azure, Google Cloud, MySQL, PostgreSQL, Firebase, MongoDB, Docker
   - **Machine Learning/Deep Learning:** scikit-learn, TensorFlow, PyTorch, PySpark, Databricks
 
 ---
@@ -35,6 +35,6 @@
 
 - 🎨 Other Facts:
   - Participated in 10 hackathons, received awards in 6
-  - Received 4 FreeCodeCamp certificates, interested in learning new technologies and skills
+  - Azure Certifications: Microsoft Azure Fundamentals (AZ-900)
 
 ---
