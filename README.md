@@ -18,13 +18,13 @@
 ---
 
 - 📖 Check out my course/personal projects:
-  - [Azure Cafe App](https://github.com/geerma/azure-cafe-app) :star: - Full-stack Cafe Appl (React, Java, Spring Boot, Azure SQL)
-  - [ActiveTechStyle](https://github.com/geerma/activetechstyle) - Full-stack E-Commerce Web App (React, Spring Boot, MySQL)
+  - [Azure Cafe App](https://github.com/geerma/azure-cafe-app) :star: - Full-stack Cafe App (React, Java, Spring Boot, Azure SQL Database)
+  - [ActiveTechStyle](https://github.com/geerma/activetechstyle) - Full-stack E-Commerce Web App (React, Java, Spring Boot, MySQL, AWS)
   - [ASL-Recognition-Deep-Learning](https://github.com/geerma/asl-recognition-deep-learning) - Deep Learning for American Sign Language Alphabet Recognition
   - [ML-MBTI-Webapp](https://github.com/geerma/ml-mbti-webapp) - Machine Learning MBTI Web App (React, Flask)
 
 - 📖 Check out my featured hackathon projects:
-  - [Volunteer Vision](https://github.com/geerma/volunteer-vision) :star: - Volunteer Connection Web App (Next.js, Supabase, Auth0, Twilio, Wix) 🥇 *First Place*
+  - [Volunteer Vision](https://github.com/geerma/volunteer-vision) :star: - Volunteer Connection Web App (Next.js, Supabase, Auth0, Twilio) 🥇 *First Place*
   - [StudyBite](https://github.com/geerma/StudyBite) :star: - Study & Food Locations Responsive Web App (Next.js, Firebase)
   - [The Giving Tree](https://github.com/geerma/thegivingtree) - Gift Recommendations App (React, TypeScript, Express, ChatGPT-3 API) 🏅 *Track Award*
   - [Leftovers Marketplace](https://github.com/geerma/leftoversmarketplace) - Food Insecurity Project (React, Express, MongoDB) 🏅 *Sponsor Award*
