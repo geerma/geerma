@@ -10,9 +10,9 @@
 
 - 📙 Skills:
   
-  - **Languages:** Java, TypeScript/JavaScript, Python, HTML, CSS, SQL, PHP, C++
-  - **Frameworks/Libraries:** React, Spring Boot, Express, Flask, Jest, Pytest
-  - **Tools/Databases:** Git, AWS, Microsoft Azure, Google Cloud, MySQL, PostgreSQL, Firebase, MongoDB, Docker, Linux
+  - **Languages:** Python, Java, TypeScript/JavaScript, HTML, CSS, SQL, PHP, C++
+  - **Libraries & Frameworks:** React/Next.js, Spring Boot, Express, Flask, Jest, Pytest
+  - **Tools & Databases:** Git, AWS, Microsoft Azure, GCP, MySQL, PostgreSQL, Firebase, Docker, Linux
   - **Machine Learning/Deep Learning:** scikit-learn, TensorFlow, PyTorch, PySpark, Databricks
 
 ---
@@ -35,7 +35,7 @@
 
 - 🎨 Other Facts:
   
-  - Azure Certifications: Microsoft Azure Fundamentals (AZ-900)
+  - Certifications: [Microsoft Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/GeerMa-9006/D6C4FFDEBF35847D?sharingId=A8643BDB72CEBF09) (AZ-900), [Microsoft Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/GeerMa-9006/A4303FDFBFD3B3BF?sharingId=A8643BDB72CEBF09) (AI-900)
   - Participated in 10 hackathons, received awards in 6
 
 ---
