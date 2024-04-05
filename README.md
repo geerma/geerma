@@ -18,7 +18,7 @@
 ---
 
 - 📖 Check out my course/personal projects:
-  - [Azure Cafe App](https://github.com/geerma/azure-cafe-app) :star: - Full-stack Cafe App (React, Java, Spring Boot, Azure SQL Database)
+  - [Azure Cafe App](https://github.com/geerma/azure-cafe-app) :star: - Full-stack Cafe App (Next.js, TypeScript, Tailwind CSS, Java, Spring Boot, Azure SQL Database & CDN & Storage Blob)
   - [ActiveTechStyle](https://github.com/geerma/activetechstyle) - Full-stack E-Commerce Web App (React, Java, Spring Boot, MySQL, AWS)
   - [ASL-Recognition-Deep-Learning](https://github.com/geerma/asl-recognition-deep-learning) - Deep Learning for American Sign Language Alphabet Recognition
   - [ML-MBTI-Webapp](https://github.com/geerma/ml-mbti-webapp) - Machine Learning MBTI Web App (React, Flask)
